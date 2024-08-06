@@ -1,0 +1,2 @@
+# jhipster-api
+jhipster-api
